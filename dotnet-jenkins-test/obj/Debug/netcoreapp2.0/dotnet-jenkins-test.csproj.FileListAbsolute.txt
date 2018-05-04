@@ -1,0 +1,10 @@
+/Users/alex/src/dotnet-jenkins-test/dotnet-jenkins-test/bin/Debug/netcoreapp2.0/dotnet-jenkins-test.deps.json
+/Users/alex/src/dotnet-jenkins-test/dotnet-jenkins-test/bin/Debug/netcoreapp2.0/dotnet-jenkins-test.runtimeconfig.json
+/Users/alex/src/dotnet-jenkins-test/dotnet-jenkins-test/bin/Debug/netcoreapp2.0/dotnet-jenkins-test.runtimeconfig.dev.json
+/Users/alex/src/dotnet-jenkins-test/dotnet-jenkins-test/bin/Debug/netcoreapp2.0/dotnet-jenkins-test.dll
+/Users/alex/src/dotnet-jenkins-test/dotnet-jenkins-test/bin/Debug/netcoreapp2.0/dotnet-jenkins-test.pdb
+/Users/alex/src/dotnet-jenkins-test/dotnet-jenkins-test/obj/Debug/netcoreapp2.0/dotnet-jenkins-test.csproj.CoreCompileInputs.cache
+/Users/alex/src/dotnet-jenkins-test/dotnet-jenkins-test/obj/Debug/netcoreapp2.0/dotnet-jenkins-test.AssemblyInfoInputs.cache
+/Users/alex/src/dotnet-jenkins-test/dotnet-jenkins-test/obj/Debug/netcoreapp2.0/dotnet-jenkins-test.AssemblyInfo.cs
+/Users/alex/src/dotnet-jenkins-test/dotnet-jenkins-test/obj/Debug/netcoreapp2.0/dotnet-jenkins-test.dll
+/Users/alex/src/dotnet-jenkins-test/dotnet-jenkins-test/obj/Debug/netcoreapp2.0/dotnet-jenkins-test.pdb
